@@ -11,7 +11,7 @@ This repository is dedicated to showcasing my progress and projects throughout t
 
 Explore detailed AI projects demonstrating my skills in key areas such as natural language processing, computer vision, and predictive analytics.
 
-[1- Stop Sign Detection Model](https://github.com/RinDataz/IBM-AI-Engineer-/blob/main/stopsignmodel.ipynb)
+[1- Stop Sign Detection Model]()
 
 **Project Summary**
 
