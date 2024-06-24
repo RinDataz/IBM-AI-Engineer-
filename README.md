@@ -108,6 +108,6 @@ Technique: This notebook focus on implementing a linear classifier using PyTorch
 
 Notebook: 4.1_resnet18_PyTorch.ipynb
 
-Technique: This notebook likely explains the implementation and use of the ResNet-18 architecture, a deep convolutional neural network known for its residual learning framework, which helps in training very deep networks effectively.
+Technique: This notebook explains the implementation and use of the ResNet-18 architecture, a deep convolutional neural network known for its residual learning framework, which helps in training very deep networks effectively.
 
 These notebooks collectively cover essential deep learning techniques such as data preprocessing, model implementation, training, and evaluation using PyTorch
