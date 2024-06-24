@@ -82,6 +82,32 @@ Repeated experiments to compute the mean and standard deviation of MSE.
 
 [Concerete Data](https://github.com/RinDataz/IBM-AI-Engineer-/blob/main/02-Introduction%20to%20Deep%20Learning%20%26%20Neural%20Networks%20with%20Keras/concrete_data.csv)
 
-**Exercises**: Practice exercises and coding challenges to reinforce concepts learned in the specialization.
+-------
 
-**Resources**: Useful references and links to supplemental materials, articles, and tutorials related to AI and machine learning.
+[3-End Of Course capstone project](https://github.com/RinDataz/IBM-AI-Engineer-/tree/main/06-AI-Capstone-Project-with-Deep-Learning)
+
+**Data Loading and Visualization:**
+
+Notebook: 1.0_load_and_display_data.ipynb
+
+Technique: This notebook covers methods for loading datasets and visualizing data to understand its structure and properties.
+
+**Data Loading with PyTorch:**
+
+Notebook: 2.1_data_loader_PyTorch.ipynb
+
+Technique: This notebook demonstrate how to efficiently load data using PyTorch's data loader utilities, which are critical for feeding data into deep learning models during training and evaluation.
+
+**Linear Classifier Implementation:**
+
+Notebook: 3.1_linearclassiferPytorch.ipynb
+
+Technique: This notebook focus on implementing a linear classifier using PyTorch, covering the basics of linear models and how to train and evaluate them.
+
+**Convolutional Neural Networks (CNNs) - ResNet-18:**
+
+Notebook: 4.1_resnet18_PyTorch.ipynb
+
+Technique: This notebook likely explains the implementation and use of the ResNet-18 architecture, a deep convolutional neural network known for its residual learning framework, which helps in training very deep networks effectively.
+
+These notebooks collectively cover essential deep learning techniques such as data preprocessing, model implementation, training, and evaluation using PyTorch
