@@ -1,4 +1,4 @@
-# IBM AI Engineer Specialization Repository
+[# IBM AI Engineer Specialization Repository](https://www.coursera.org/professional-certificates/ai-engineer)
 
 
 **Welcome to the IBM AI Engineer Specialization repository!**
