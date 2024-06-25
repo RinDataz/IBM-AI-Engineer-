@@ -1,7 +1,7 @@
-[# IBM AI Engineer Specialization Repository](https://www.coursera.org/professional-certificates/ai-engineer)
+# IBM AI Engineer Specialization Repository
 
 
-**Welcome to the IBM AI Engineer Specialization repository!**
+[**Welcome to the IBM AI Engineer Specialization repository!**](https://www.coursera.org/professional-certificates/ai-engineer)
 
 This repository is dedicated to showcasing my progress and projects throughout the IBM AI Engineer specialization offered on Coursera. It serves as a comprehensive portfolio of my work, encompassing various AI concepts and applications covered in the specialization.
 
@@ -111,3 +111,6 @@ Notebook: 4.1_resnet18_PyTorch.ipynb
 Technique: This notebook explains the implementation and use of the ResNet-18 architecture, a deep convolutional neural network known for its residual learning framework, which helps in training very deep networks effectively.
 
 These notebooks collectively cover essential deep learning techniques such as data preprocessing, model implementation, training, and evaluation using PyTorch
+
+
+[**Certification**](https://github.com/RinDataz/IBM-AI-Engineer-/blob/main/IBM%20AI%20ENG%20CERT.pdf)
