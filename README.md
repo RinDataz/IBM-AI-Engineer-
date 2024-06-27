@@ -51,7 +51,7 @@ This project predicts the compressive strength of concrete using a neural networ
 
 #### [3. End Of Course Capstone Project](https://github.com/RinDataz/IBM-AI-Engineer-/tree/main/06-AI-Capstone-Project-with-Deep-Learning)
 
-**Project Components**
+**Project Components** 
 
 - **Data Loading and Visualization**: [1.0_load_and_display_data.ipynb](link)
   - Covered methods for loading datasets and visualizing data to understand its structure and properties.
